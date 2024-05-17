@@ -12,7 +12,7 @@ Projeto totalmente responsivo voltado a otimizar e treinar as tecnologias de Des
     <li><b>SCSS</b></li>
 </ul>
 
-Para visualizar a Lading Page, basta clicar <a href="https://thejrodrigues.github.io/Huddle-Landing-Page/" target="_blank" alt="Link do Site">Aqui</a>
+Para visualizar a Lading Page, basta clicar <a href="https://thejrodrigues.github.io/Stats-preview-card/" target="_blank" alt="Link do Site">Aqui</a>
 
 Abaixo consta algumas imagens da página, sendo elas da estilização para Mobile e para Desktop.
 
