@@ -1,0 +1,36 @@
+@media screen and (min-width: 1000px) {
+  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Lexend+Deca:wght@100..900&display=swap");
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+    max-width: 80em;
+    height: 32em;
+  }
+  .mask {
+    height: 100%;
+    width: 100%;
+  }
+  .content {
+    padding: 5rem;
+    width: 70%;
+    height: 80%;
+    justify-content: space-around;
+    align-items: start;
+    margin-right: 2rem;
+  }
+  .main {
+    text-align: start;
+    gap: 2rem;
+    font-size: 19px;
+  }
+  .footer {
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: start;
+    width: 100%;
+    font-size: 19px;
+  }
+}/*# sourceMappingURL=desktop.css.map */
